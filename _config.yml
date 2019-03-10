@@ -1,9 +1,8 @@
 # Site settings
-title: My Blog
+title: MyQuality Blog
 email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
+description: Blog about software quality.
+baseurl: "/myquality-blog"
 twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Admin" # Set default author name
+      categories: "quality"
       layout: "post"
       comments: true
   -
